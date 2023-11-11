@@ -6,4 +6,20 @@ The API is hosted on a Microsoft Azure Web App Service
 
 https://alien-info.netlify.app/
 
-![alien-info netlify app](https://github.com/TazRJ/Star-Trek-Alien-API-Client/assets/99307581/013c8733-d9bb-496b-8045-ab7da6c053dc)
+![alien-info netlify app](https://github.com/TazRJ/Star-Trek-Alien-API-Client/assets/99307581/b7c66b2a-ee9e-444c-b464-e6ec7f02c125)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, Node.Js, Express, MongoDB Atlas
+
+This project is a StarTrek inspired web app that provides users with info about various related aliens. 
+
+It uses Node.js and Express for the back end, and vanilla JS/HTML/CSS for the front end. 
+
+The goal of this project was to experiment and develop my personal coding abilty and understanding of full-stack web development
+
+For the purpose of the demo, the website is currently hosted on Netlify.
+
+## Optimizations
+
+Additional pages to allow the user to input their own aliens, and utilise all of the CRUD functions instead of just reading is something that can be worked on in the future of the project!
